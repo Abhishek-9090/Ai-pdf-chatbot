@@ -65,12 +65,6 @@ Create a .env file and add:
 Environment
 OPENAI_API_KEY=your_api_key_here
 4️⃣ Run the Application
-
-Author
-Abhishek Mishra
-GitHub: https://github.com/Abhishek-9090⁠�
-LinkedIn: https://www.linkedin.com/in/abhishek-mishra-0076952a7⁠�
-Portfolio: https://abhishek-mishra-ai-nm6sctr.gamma.site/⁠�
 Bash
 streamlit run app.py
 
@@ -89,3 +83,9 @@ Conversational AI
 LangChain Workflows
 LLM Integration
 Vector Databases
+
+Author
+Abhishek Mishra
+GitHub: https://github.com/Abhishek-9090⁠�
+LinkedIn: https://www.linkedin.com/in/abhishek-mishra-0076952a7⁠�
+Portfolio: https://abhishek-mishra-ai-nm6sctr.gamma.site/⁠�
