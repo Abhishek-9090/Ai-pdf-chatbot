@@ -50,3 +50,42 @@ AI-PDF-Chatbot/
 │── requirements.txt
 │── .env
 │── README.md
+
+
+⚙️ Installation
+1️⃣ Clone the Repository
+Bash
+git clone https://github.com/Abhishek-9090/ai-pdf-chatbot.git
+cd ai-pdf-chatbot
+2️⃣ Install Dependencies
+Bash
+pip install -r requirements.txt
+3️⃣ Add API Key
+Create a .env file and add:
+Environment
+OPENAI_API_KEY=your_api_key_here
+4️⃣ Run the Application
+
+Author
+Abhishek Mishra
+GitHub: https://github.com/Abhishek-9090⁠�
+LinkedIn: https://www.linkedin.com/in/abhishek-mishra-0076952a7⁠�
+Portfolio: https://abhishek-mishra-ai-nm6sctr.gamma.site/⁠�
+Bash
+streamlit run app.py
+
+💡 Future Improvements
+Support for DOCX and TXT files
+Voice-enabled chatbot
+Advanced vector databases
+Authentication system
+Cloud deployment
+
+📌 Key Concepts Learned
+Retrieval-Augmented Generation (RAG)
+Vector Embeddings
+Semantic Search
+Conversational AI
+LangChain Workflows
+LLM Integration
+Vector Databases
